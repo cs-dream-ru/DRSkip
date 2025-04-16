@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		//Префикс в чате
+		"en"			"{green}[DRSkip]{default}"
+		"ru"			"{green}[DRSkip]{default}"
+	}
+	"Skip"
+	{
+		"ru"			"Террорист решил всех пропустить, БЕГИТЕ!!!111!!!"
+		"en"			"Terrorist are skiping everyone, RUN!111!11!!"
+	}
+	"AutoSkip"
+	{
+		"ru" 			"Автоматический пропуск, БЕГИТЕ!11!!!!11"
+		"en"			"Auto skipping, RUN!111!11!!"
+	}
+	"NotSkipping"
+	{
+		"ru"			"Вы решили не пропускать CT!"
+		"en"			"You're not skipping CT!"
+	}
+	"TryActivate"
+	{
+		"ru" 			"Вы не можете использовать кнопки, т.к. решили пропустить всех игроков."
+		"en"			"You can't use buttons because you skipped players!"
+	}
+	"MenuTitle"
+	{
+		"ru" 			"Пропустить контр-террористов?"
+		"en"			"Skip CT?"
+	}
+	"MenuYes"
+	{
+		"ru" 			"Да"
+		"en"			"Yes"
+	}
+	"MenuNo"
+	{
+		"ru" 			"Нет"
+		"en"			"No"
+	}
+}
